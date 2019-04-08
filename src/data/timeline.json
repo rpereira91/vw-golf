@@ -1,0 +1,211 @@
+{
+    "timeline": [
+      {
+        "year": 1975,
+        "name": "MK1 Volkswagen Golf GTI",
+        "weight": 1785,
+        "HP": 108,
+        "wheelbase": 94.4,
+        "facts": [
+          "2.0L 16v engine",
+          "0-60 in 8.9 seconds",
+          "Bosch K-Jetronic Fuel injection System"
+        ],
+        "headline": "Revolutionized hot hatch",
+        "bgcolor": "#253845",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Volkswagen_Golf_1-2.jpg/1024px-Volkswagen_Golf_1-2.jpg"
+      },
+      {
+        "year": 1983,
+        "name": "MK2 Volkswagen Golf GTI 8v",
+        "weight": 2006,
+        "HP": 106,
+        "wheelbase": 97.2,
+        "facts": [
+          "New 7-slat grille",
+          "112 MPH top speed",
+          "1.8L 8v EA827 L4"
+        ],
+        "headline": "Larger body shell with power steering",
+        "bgcolor": "#2c4352"
+      },
+      {
+        "year": 1986,
+        "name": "MK2 Volkswagen Golf GTI 16v",
+        "weight": 2000,
+        "HP": 137,
+        "wheelbase": 97.4,
+        "facts": [
+          "Introduced the Big Bumper",
+          "Discreet red and black 16v badges on the front and rear"
+        ],
+        "headline": "Fastest GTI yet with the biggest bumper",
+        "bgcolor": "#324d5e"
+      },
+      {
+        "year": 1989,
+        "name": "Volkswagen Golf Rallye G60",
+        "weight": 2635,
+        "HP": 167,
+        "wheelbase": 97.7,
+        "facts": [
+          "Syncro four-wheel Drive",
+          "1.8 L G supercharged 8v G60 engine ",
+          "Box-flared wheel arches"
+        ],
+        "headline": "4WD Rallye Homologation special",
+        "bgcolor": "#39586b"
+      },
+      {
+        "year": 1989,
+        "name": "Volkswagen Golf Rallye G60 Limited Edition",
+        "weight": 2811,
+        "HP": 209,
+        "wheelbase": 97.6,
+        "facts": [
+          "153 mph top speed",
+          "Hand built by Volkswagen",
+          "Only 71 produced world wide"
+        ],
+        "headline": "Fastest GTI of it's kind",
+        "bgcolor": "#406278"
+      },
+      {
+        "year": 1990,
+        "name": "Volkswagen Golf Country Syncro",
+        "weight": 2744,
+        "HP": 115,
+        "wheelbase": 97.2,
+        "facts": [
+          "First Cross over before crossovers caught on",
+          "Bull bars front and rear",
+          "8 inches of ground clearance"
+        ],
+        "headline": "First ever offroad golf",
+        "bgcolor": "#476c85"
+      },
+      {
+        "year": 1992,
+        "name": "MK3 Volkswagen Golf GTI",
+        "weight": 2275,
+        "HP": 110,
+        "wheelbase": 97.4,
+        "facts": [
+          "Smooth exterior, refined interior",
+          "2.0L DOHC 16v engine"
+        ],
+        "headline": "First Golf offered with VR6 engine",
+        "bgcolor": "#4e7792"
+      },
+      {
+        "year": 1997,
+        "name": "MK4 Volkswagen Golf GTI",
+        "weight": 2587,
+        "HP": 152,
+        "wheelbase": 97.4,
+        "facts": [
+          "0-60 in 8.9 seconds",
+          "BBHS wheels"
+        ],
+        "headline": "GTIs are reduced to a mere trim level",
+        "bgcolor": "#54819e"
+      },
+      {
+        "year": 2003,
+        "name": "MK4 Golf R32",
+        "weight": 3350,
+        "HP": 237,
+        "wheelbase": 99.1,
+        "facts": [
+          "Introduced the R branding",
+          "3.2L VR6 24v V6 engine",
+          "Haldex 4Motion four wheel drive System"
+        ],
+        "headline": "Stunning performance as well as good looks",
+        "bgcolor": "#5e8ba9"
+      },
+      {
+        "year": 2004,
+        "name": "MK5 Volkswagen Golf GTI",
+        "weight": 2945,
+        "HP": 200,
+        "wheelbase": 101.5,
+        "facts": [
+          "2.0L FSI 16v l5 Turbo Engine",
+          "Choice of 6 speed manual or DSG gearbox"
+        ],
+        "headline": "Return of the GTI smaller and faster",
+        "bgcolor": "#6a94b0"
+      },
+      {
+        "year": 2005,
+        "name": "Volkswagen Golf R32",
+        "weight": 3547,
+        "HP": 250,
+        "wheelbase": 101.5,
+        "facts": [
+          "Updated 3.2L 24v VR6 V6 Engine",
+          "Signature center-mounted exhaust",
+          "13.58 in front discs, 12.2 in rear disks"
+        ],
+        "headline": "Offered mature, seasoned performance",
+        "bgcolor": "#779eb7"
+      },
+      {
+        "year": 2009,
+        "name": "MK6 Volkswagen Golf GTI",
+        "weight": 2906,
+        "HP": 210,
+        "wheelbase": 101.5,
+        "facts": [
+          "XDS electronic Differental",
+          "Mk1 style cloth seats",
+          "Three stage ACC adj. dampers"
+        ],
+        "headline": "Considered the ultimate reincarnation of the GTI",
+        "bgcolor": "#84a7bd"
+      },
+      {
+        "year": 2015,
+        "name": "MK7 Volkswagen Golf GTI",
+        "weight": 2972,
+        "HP": 210,
+        "wheelbase": 103.6,
+        "facts": [
+          "0-60 in 5.9 seconds",
+          "2.0L TSI Turbo direct-injecetion engine",
+          "28 mpg combined"
+        ],
+        "headline": "Won the car of the year japan award",
+        "bgcolor": "#91b0c4"
+      },
+      {
+        "year": 2015,
+        "name": "Volkswagen E Golf",
+        "weight": 3450,
+        "HP": 119,
+        "wheelbase": 103.5,
+        "facts": [
+          "Only available in select US markets",
+          "Range of 81 to 118 miles",
+          "Can reach full charge in just 4 hours"
+        ],
+        "headline": "First all electric version of the VW golf",
+        "bgcolor": "#9eb9cb"
+      },
+      {
+        "year": 2017,
+        "name": "MK7 Volkswagen Golf R",
+        "weight": 3325,
+        "HP": 292,
+        "wheelbase": 101.5,
+        "facts": [
+          "2.0L DOHC 16v Turbo l4 engine",
+          "0-60 in 5.2 seconds",
+          "1/4 mile in 13.7 sec @ 103 mph"
+        ],
+        "headline": "Most powerful production golf ever",
+        "bgcolor": "#aac2d2"
+      }
+    ]
+  }
